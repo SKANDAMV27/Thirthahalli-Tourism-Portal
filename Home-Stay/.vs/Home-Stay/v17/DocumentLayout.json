@@ -1,0 +1,507 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dell\\OneDrive\\Desktop\\Skanda Document\\Home-Stay\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dell\\OneDrive\\Desktop\\Skanda Document\\Home-Stay\\home-stay\\src\\pages\\Admin.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:home-stay\\src\\pages\\Admin.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dell\\OneDrive\\Desktop\\Skanda Document\\Home-Stay\\home-stay\\src\\App.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:home-stay\\src\\App.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dell\\OneDrive\\Desktop\\Skanda Document\\Home-Stay\\home-stay\\src\\components\\Navbar\\Navbar.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:home-stay\\src\\components\\Navbar\\Navbar.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dell\\OneDrive\\Desktop\\Skanda Document\\Home-Stay\\home-stay\\src\\pages\\About.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:home-stay\\src\\pages\\About.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dell\\OneDrive\\Desktop\\Skanda Document\\Home-Stay\\home-stay\\src\\pages\\Contact.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:home-stay\\src\\pages\\Contact.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dell\\OneDrive\\Desktop\\Skanda Document\\Home-Stay\\home-stay\\src\\pages\\Feedback.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:home-stay\\src\\pages\\Feedback.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dell\\OneDrive\\Desktop\\Skanda Document\\Home-Stay\\home-stay\\src\\pages\\BookingForm.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:home-stay\\src\\pages\\BookingForm.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dell\\OneDrive\\Desktop\\Skanda Document\\Home-Stay\\home-stay\\src\\data\\homes.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:home-stay\\src\\data\\homes.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dell\\OneDrive\\Desktop\\Skanda Document\\Home-Stay\\home-stay\\src\\pages\\HomeStay.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:home-stay\\src\\pages\\HomeStay.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dell\\OneDrive\\Desktop\\Skanda Document\\Home-Stay\\home-stay\\src\\pages\\Home.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:home-stay\\src\\pages\\Home.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dell\\OneDrive\\Desktop\\Skanda Document\\Home-Stay\\home-stay\\src\\pages\\Home.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:home-stay\\src\\pages\\Home.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dell\\OneDrive\\Desktop\\Skanda Document\\Home-Stay\\home-stay\\src\\pages\\BookingForm.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:home-stay\\src\\pages\\BookingForm.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dell\\OneDrive\\Desktop\\Skanda Document\\Home-Stay\\home-stay\\src\\pages\\TouristPlaces.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:home-stay\\src\\pages\\TouristPlaces.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dell\\OneDrive\\Desktop\\Skanda Document\\Home-Stay\\home-stay\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:home-stay\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dell\\OneDrive\\Desktop\\Skanda Document\\Home-Stay\\home-stay\\src\\pages\\HotelDetails.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:home-stay\\src\\pages\\HotelDetails.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dell\\OneDrive\\Desktop\\Skanda Document\\Home-Stay\\home-stay\\src\\pages\\HotelDetails.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:home-stay\\src\\pages\\HotelDetails.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dell\\OneDrive\\Desktop\\Skanda Document\\Home-Stay\\home-stay\\src\\pages\\HomeDetails.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:home-stay\\src\\pages\\HomeDetails.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dell\\OneDrive\\Desktop\\Skanda Document\\Home-Stay\\home-stay\\src\\pages\\HomeDetails.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:home-stay\\src\\pages\\HomeDetails.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dell\\OneDrive\\Desktop\\Skanda Document\\Home-Stay\\home-stay\\src\\pages\\HomeStay.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:home-stay\\src\\pages\\HomeStay.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dell\\OneDrive\\Desktop\\Skanda Document\\Home-Stay\\home-stay\\src\\data\\Hotels.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:home-stay\\src\\data\\Hotels.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dell\\OneDrive\\Desktop\\Skanda Document\\Home-Stay\\home-stay\\src\\pages\\Hotel.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:home-stay\\src\\pages\\Hotel.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dell\\OneDrive\\Desktop\\Skanda Document\\Home-Stay\\home-stay\\src\\pages\\Hotel.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:home-stay\\src\\pages\\Hotel.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dell\\OneDrive\\Desktop\\Skanda Document\\Home-Stay\\home-stay\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:home-stay\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dell\\OneDrive\\Desktop\\Skanda Document\\Home-Stay\\home-stay\\src\\pages\\MapTilerMap.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:home-stay\\src\\pages\\MapTilerMap.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dell\\OneDrive\\Desktop\\Skanda Document\\Home-Stay\\home-stay\\src\\components\\Footer\\Footer.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:home-stay\\src\\components\\Footer\\Footer.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dell\\OneDrive\\Desktop\\Skanda Document\\Home-Stay\\home-stay\\src\\pages\\Feedback.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:home-stay\\src\\pages\\Feedback.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dell\\OneDrive\\Desktop\\Skanda Document\\Home-Stay\\home-stay\\src\\pages\\TouristPlaces.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:home-stay\\src\\pages\\TouristPlaces.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dell\\OneDrive\\Desktop\\Skanda Document\\Home-Stay\\home-stay\\src\\App.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:home-stay\\src\\App.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dell\\OneDrive\\Desktop\\Skanda Document\\Home-Stay\\home-stay\\src\\pages\\Contact.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:home-stay\\src\\pages\\Contact.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dell\\OneDrive\\Desktop\\Skanda Document\\Home-Stay\\home-stay\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:home-stay\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "About.jsx",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Desktop\\Skanda Document\\Home-Stay\\home-stay\\src\\pages\\About.jsx",
+              "RelativeDocumentMoniker": "home-stay\\src\\pages\\About.jsx",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Desktop\\Skanda Document\\Home-Stay\\home-stay\\src\\pages\\About.jsx",
+              "RelativeToolTip": "home-stay\\src\\pages\\About.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-11-12T05:20:47.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Admin.jsx",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Desktop\\Skanda Document\\Home-Stay\\home-stay\\src\\pages\\Admin.jsx",
+              "RelativeDocumentMoniker": "home-stay\\src\\pages\\Admin.jsx",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Desktop\\Skanda Document\\Home-Stay\\home-stay\\src\\pages\\Admin.jsx",
+              "RelativeToolTip": "home-stay\\src\\pages\\Admin.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-11-12T05:18:24.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Feedback.jsx",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Desktop\\Skanda Document\\Home-Stay\\home-stay\\src\\pages\\Feedback.jsx",
+              "RelativeDocumentMoniker": "home-stay\\src\\pages\\Feedback.jsx",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Desktop\\Skanda Document\\Home-Stay\\home-stay\\src\\pages\\Feedback.jsx",
+              "RelativeToolTip": "home-stay\\src\\pages\\Feedback.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-10-30T04:33:42.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Navbar.jsx",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Desktop\\Skanda Document\\Home-Stay\\home-stay\\src\\components\\Navbar\\Navbar.jsx",
+              "RelativeDocumentMoniker": "home-stay\\src\\components\\Navbar\\Navbar.jsx",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Desktop\\Skanda Document\\Home-Stay\\home-stay\\src\\components\\Navbar\\Navbar.jsx",
+              "RelativeToolTip": "home-stay\\src\\components\\Navbar\\Navbar.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-10-29T10:47:44.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.jsx",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Desktop\\Skanda Document\\Home-Stay\\home-stay\\src\\App.jsx",
+              "RelativeDocumentMoniker": "home-stay\\src\\App.jsx",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Desktop\\Skanda Document\\Home-Stay\\home-stay\\src\\App.jsx",
+              "RelativeToolTip": "home-stay\\src\\App.jsx",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAACkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-10-29T06:04:32.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Contact.jsx",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Desktop\\Skanda Document\\Home-Stay\\home-stay\\src\\pages\\Contact.jsx",
+              "RelativeDocumentMoniker": "home-stay\\src\\pages\\Contact.jsx",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Desktop\\Skanda Document\\Home-Stay\\home-stay\\src\\pages\\Contact.jsx",
+              "RelativeToolTip": "home-stay\\src\\pages\\Contact.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-10-29T10:58:14.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookingForm.jsx",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Desktop\\Skanda Document\\Home-Stay\\home-stay\\src\\pages\\BookingForm.jsx",
+              "RelativeDocumentMoniker": "home-stay\\src\\pages\\BookingForm.jsx",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Desktop\\Skanda Document\\Home-Stay\\home-stay\\src\\pages\\BookingForm.jsx",
+              "RelativeToolTip": "home-stay\\src\\pages\\BookingForm.jsx",
+              "ViewState": "AgIAACgAAAAAAAAAAAAmwEUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-10-29T09:05:24.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Home.css",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Desktop\\Skanda Document\\Home-Stay\\home-stay\\src\\pages\\Home.css",
+              "RelativeDocumentMoniker": "home-stay\\src\\pages\\Home.css",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Desktop\\Skanda Document\\Home-Stay\\home-stay\\src\\pages\\Home.css",
+              "RelativeToolTip": "home-stay\\src\\pages\\Home.css",
+              "ViewState": "AgIAAAQAAAAAAAAAAADwvyQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-10-29T09:11:10.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeStay.jsx",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Desktop\\Skanda Document\\Home-Stay\\home-stay\\src\\pages\\HomeStay.jsx",
+              "RelativeDocumentMoniker": "home-stay\\src\\pages\\HomeStay.jsx",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Desktop\\Skanda Document\\Home-Stay\\home-stay\\src\\pages\\HomeStay.jsx",
+              "RelativeToolTip": "home-stay\\src\\pages\\HomeStay.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-10-29T06:27:09.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "homes.js",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Desktop\\Skanda Document\\Home-Stay\\home-stay\\src\\data\\homes.js",
+              "RelativeDocumentMoniker": "home-stay\\src\\data\\homes.js",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Desktop\\Skanda Document\\Home-Stay\\home-stay\\src\\data\\homes.js",
+              "RelativeToolTip": "home-stay\\src\\data\\homes.js",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAACMAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-10-29T12:50:59.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Desktop\\Skanda Document\\Home-Stay\\home-stay\\index.html",
+              "RelativeDocumentMoniker": "home-stay\\index.html",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Desktop\\Skanda Document\\Home-Stay\\home-stay\\index.html",
+              "RelativeToolTip": "home-stay\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-10-31T09:40:23.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TouristPlaces.jsx",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Desktop\\Skanda Document\\Home-Stay\\home-stay\\src\\pages\\TouristPlaces.jsx",
+              "RelativeDocumentMoniker": "home-stay\\src\\pages\\TouristPlaces.jsx",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Desktop\\Skanda Document\\Home-Stay\\home-stay\\src\\pages\\TouristPlaces.jsx",
+              "RelativeToolTip": "home-stay\\src\\pages\\TouristPlaces.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-10-29T10:01:41.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BookingForm.css",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Desktop\\Skanda Document\\Home-Stay\\home-stay\\src\\pages\\BookingForm.css",
+              "RelativeDocumentMoniker": "home-stay\\src\\pages\\BookingForm.css",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Desktop\\Skanda Document\\Home-Stay\\home-stay\\src\\pages\\BookingForm.css",
+              "RelativeToolTip": "home-stay\\src\\pages\\BookingForm.css",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAE8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-10-29T09:06:41.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Home.jsx",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Desktop\\Skanda Document\\Home-Stay\\home-stay\\src\\pages\\Home.jsx",
+              "RelativeDocumentMoniker": "home-stay\\src\\pages\\Home.jsx",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Desktop\\Skanda Document\\Home-Stay\\home-stay\\src\\pages\\Home.jsx",
+              "RelativeToolTip": "home-stay\\src\\pages\\Home.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-10-29T06:26:54.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HotelDetails.css",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Desktop\\Skanda Document\\Home-Stay\\home-stay\\src\\pages\\HotelDetails.css",
+              "RelativeDocumentMoniker": "home-stay\\src\\pages\\HotelDetails.css",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Desktop\\Skanda Document\\Home-Stay\\home-stay\\src\\pages\\HotelDetails.css",
+              "RelativeToolTip": "home-stay\\src\\pages\\HotelDetails.css",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAUwJUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-10-30T10:32:59.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HotelDetails.jsx",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Desktop\\Skanda Document\\Home-Stay\\home-stay\\src\\pages\\HotelDetails.jsx",
+              "RelativeDocumentMoniker": "home-stay\\src\\pages\\HotelDetails.jsx",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Desktop\\Skanda Document\\Home-Stay\\home-stay\\src\\pages\\HotelDetails.jsx",
+              "RelativeToolTip": "home-stay\\src\\pages\\HotelDetails.jsx",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAEEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-10-29T06:06:26.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "HomeDetails.jsx",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Desktop\\Skanda Document\\Home-Stay\\home-stay\\src\\pages\\HomeDetails.jsx",
+              "RelativeDocumentMoniker": "home-stay\\src\\pages\\HomeDetails.jsx",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Desktop\\Skanda Document\\Home-Stay\\home-stay\\src\\pages\\HomeDetails.jsx",
+              "RelativeToolTip": "home-stay\\src\\pages\\HomeDetails.jsx",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAFAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-10-29T06:06:46.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Hotels.js",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Desktop\\Skanda Document\\Home-Stay\\home-stay\\src\\data\\Hotels.js",
+              "RelativeDocumentMoniker": "home-stay\\src\\data\\Hotels.js",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Desktop\\Skanda Document\\Home-Stay\\home-stay\\src\\data\\Hotels.js",
+              "RelativeToolTip": "home-stay\\src\\data\\Hotels.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGYAAADAAQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-10-29T06:13:04.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "HomeStay.css",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Desktop\\Skanda Document\\Home-Stay\\home-stay\\src\\pages\\HomeStay.css",
+              "RelativeDocumentMoniker": "home-stay\\src\\pages\\HomeStay.css",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Desktop\\Skanda Document\\Home-Stay\\home-stay\\src\\pages\\HomeStay.css",
+              "RelativeToolTip": "home-stay\\src\\pages\\HomeStay.css",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAACgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-10-29T09:20:59.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "HomeDetails.css",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Desktop\\Skanda Document\\Home-Stay\\home-stay\\src\\pages\\HomeDetails.css",
+              "RelativeDocumentMoniker": "home-stay\\src\\pages\\HomeDetails.css",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Desktop\\Skanda Document\\Home-Stay\\home-stay\\src\\pages\\HomeDetails.css",
+              "RelativeToolTip": "home-stay\\src\\pages\\HomeDetails.css",
+              "ViewState": "AgIAAIwAAAAAAAAAAAAUwK4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-10-29T06:36:47.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Hotel.css",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Desktop\\Skanda Document\\Home-Stay\\home-stay\\src\\pages\\Hotel.css",
+              "RelativeDocumentMoniker": "home-stay\\src\\pages\\Hotel.css",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Desktop\\Skanda Document\\Home-Stay\\home-stay\\src\\pages\\Hotel.css",
+              "RelativeToolTip": "home-stay\\src\\pages\\Hotel.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-10-29T10:41:45.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Hotel.jsx",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Desktop\\Skanda Document\\Home-Stay\\home-stay\\src\\pages\\Hotel.jsx",
+              "RelativeDocumentMoniker": "home-stay\\src\\pages\\Hotel.jsx",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Desktop\\Skanda Document\\Home-Stay\\home-stay\\src\\pages\\Hotel.jsx",
+              "RelativeToolTip": "home-stay\\src\\pages\\Hotel.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-10-29T06:16:25.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "main.jsx",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Desktop\\Skanda Document\\Home-Stay\\home-stay\\src\\main.jsx",
+              "RelativeDocumentMoniker": "home-stay\\src\\main.jsx",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Desktop\\Skanda Document\\Home-Stay\\home-stay\\src\\main.jsx",
+              "RelativeToolTip": "home-stay\\src\\main.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-10-29T11:51:11.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "MapTilerMap.jsx",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Desktop\\Skanda Document\\Home-Stay\\home-stay\\src\\pages\\MapTilerMap.jsx",
+              "RelativeDocumentMoniker": "home-stay\\src\\pages\\MapTilerMap.jsx",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Desktop\\Skanda Document\\Home-Stay\\home-stay\\src\\pages\\MapTilerMap.jsx",
+              "RelativeToolTip": "home-stay\\src\\pages\\MapTilerMap.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-10-29T10:57:37.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Footer.jsx",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Desktop\\Skanda Document\\Home-Stay\\home-stay\\src\\components\\Footer\\Footer.jsx",
+              "RelativeDocumentMoniker": "home-stay\\src\\components\\Footer\\Footer.jsx",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Desktop\\Skanda Document\\Home-Stay\\home-stay\\src\\components\\Footer\\Footer.jsx",
+              "RelativeToolTip": "home-stay\\src\\components\\Footer\\Footer.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-10-30T04:22:31.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Feedback.css",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Desktop\\Skanda Document\\Home-Stay\\home-stay\\src\\pages\\Feedback.css",
+              "RelativeDocumentMoniker": "home-stay\\src\\pages\\Feedback.css",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Desktop\\Skanda Document\\Home-Stay\\home-stay\\src\\pages\\Feedback.css",
+              "RelativeToolTip": "home-stay\\src\\pages\\Feedback.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-10-29T09:43:11.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "TouristPlaces.css",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Desktop\\Skanda Document\\Home-Stay\\home-stay\\src\\pages\\TouristPlaces.css",
+              "RelativeDocumentMoniker": "home-stay\\src\\pages\\TouristPlaces.css",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Desktop\\Skanda Document\\Home-Stay\\home-stay\\src\\pages\\TouristPlaces.css",
+              "RelativeToolTip": "home-stay\\src\\pages\\TouristPlaces.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-10-29T09:31:56.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "App.css",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Desktop\\Skanda Document\\Home-Stay\\home-stay\\src\\App.css",
+              "RelativeDocumentMoniker": "home-stay\\src\\App.css",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Desktop\\Skanda Document\\Home-Stay\\home-stay\\src\\App.css",
+              "RelativeToolTip": "home-stay\\src\\App.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-10-29T09:09:50.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Contact.css",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Desktop\\Skanda Document\\Home-Stay\\home-stay\\src\\pages\\Contact.css",
+              "RelativeDocumentMoniker": "home-stay\\src\\pages\\Contact.css",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Desktop\\Skanda Document\\Home-Stay\\home-stay\\src\\pages\\Contact.css",
+              "RelativeToolTip": "home-stay\\src\\pages\\Contact.css",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAiwKMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-10-29T09:16:48.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "index.css",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Desktop\\Skanda Document\\Home-Stay\\home-stay\\src\\index.css",
+              "RelativeDocumentMoniker": "home-stay\\src\\index.css",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Desktop\\Skanda Document\\Home-Stay\\home-stay\\src\\index.css",
+              "RelativeToolTip": "home-stay\\src\\index.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-10-29T09:10:01.502Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
