@@ -11,6 +11,7 @@ public class EmailService {
     @Autowired
     private JavaMailSender mailSender;
 
+
     /**
      * Sends a plain text email.
      *

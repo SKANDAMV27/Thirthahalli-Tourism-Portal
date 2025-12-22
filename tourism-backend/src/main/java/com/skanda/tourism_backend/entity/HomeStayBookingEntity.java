@@ -3,6 +3,7 @@ package com.skanda.tourism_backend.entity;
 import jakarta.persistence.*;
 import lombok.Data;
 
+import java.time.LocalDateTime;
 import java.util.Date;
 
 @Entity
@@ -43,6 +44,14 @@ public class HomeStayBookingEntity {
     private String roomType;
 
     private String specialRequiest;
+
+    private boolean isDelete;
+
+    private LocalDateTime deleteDateTime;
+
+    private String deletedBy;
+
+
 
 
 

@@ -12,6 +12,8 @@ public class HomeStayFeedback {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private long id;
 
+    private String homeStayName;
+
     private String name;
 
     private String email;

@@ -22,4 +22,6 @@ public class HomeStayAdminService {
         System.out.println("HomeStayAdmin Service Layer For Get the All Data");
         return homeStayAdminRepository.findAll();
     }
+
+
 }

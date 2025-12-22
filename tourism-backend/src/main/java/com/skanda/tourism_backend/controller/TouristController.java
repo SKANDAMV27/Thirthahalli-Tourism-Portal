@@ -11,11 +11,14 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
+import java.util.Optional;
 
 @RestController
 @RequestMapping("/api/homestay")
 @CrossOrigin(origins = "http://localhost:5173/")
 public class TouristController {
+
+
 
     @Autowired
     private HomeStayBookingService homeStayBookingService;
@@ -76,6 +79,12 @@ public class TouristController {
         return homeStayBookingService.findAll();
     }
 
+    @PutMapping("/deleteByEmail/{email}")
+    public String deleteById(@PathVariable String email){
+        System.out.println("Delete By Id:");
+        return homeStayBookingService.deleteById(email);
+    }
+
     @PostMapping("/feedbackSave")
     public HomeStayFeedback save(@RequestBody HomeStayFeedback homeStayFeedback){
         System.out.println("Controller Layer");
@@ -90,6 +99,11 @@ public class TouristController {
         return homeStayFeedbackService.save(homeStayFeedback);
     }
 
+    @GetMapping("/getAllFeedback")
+    public List<HomeStayFeedback> feedbackList(){
+        System.out.println("Feedback List");
+        return homeStayFeedbackService.findAll();
+    }
     @PostMapping("/homestayAdmin")
     public HomeStayAdminEntity homeStayAdmin(@RequestBody HomeStayAdminEntity homeStayAdminEntity)
     {
@@ -102,4 +116,6 @@ public class TouristController {
         System.out.println("HomeStayAdmin Controller Layer For Getting The All The HomeStay Data");
         return homeStayAdminService.getAll();
     }
+
+
 }
